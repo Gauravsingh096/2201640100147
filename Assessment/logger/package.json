@@ -1,0 +1,9 @@
+{
+  "name": "@2201640100147/logger",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware that posts logs to evaluation server.",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT"
+}
+
